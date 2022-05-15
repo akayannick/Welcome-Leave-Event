@@ -18,13 +18,13 @@
      3.Paste Your Bot Token
      4.Run ▶
 
-# When you need help join my Discord Sevrer! https://discord.gg/uF7A2AXH
+### When you need help join my Discord Server! https://discord.gg/uF7A2AXH
 
 
 
-!!!PREVIEW!!!
+# !!!PREVIEW!!!
 
 ![grafik](https://user-images.githubusercontent.com/98027205/168488765-9d2b3288-bdda-49b6-abb5-9358157fd75b.png)
 
 
-***~ aka.\_.yannick/Developer ***
+## ~ aka.\_.yannick/Developer 
