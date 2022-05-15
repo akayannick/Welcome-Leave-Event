@@ -28,7 +28,7 @@
 
 
 
-### When you need help join my Discord Server! https://discord.gg/uF7A2AXH
+### If you need help join my Discord Server! https://discord.gg/uF7A2AXH
 
 
 
