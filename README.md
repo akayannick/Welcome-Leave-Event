@@ -3,12 +3,12 @@
 
 ## Open a terminal or cmd (Depending on you're operating system)
 
-## Type: `pip install https://github.com/akayannick/Welcome-Leave-Event.git`
+### Type: `pip install https://github.com/akayannick/Welcome-Leave-Event.git`
 
-## Type if you're on mac/linux: pip3 install -r requirements.txt 
-## Type if you're on windows: pip install requirements.txt
+### Type if you're on mac/linux: pip3 install -r requirements.txt 
+### Type if you're on windows: pip install requirements.txt
 
-## Last open main.py and replace the variable TOKEN with you're bot token and PREFIX with you're bot prefix
+### Last open main.py and replace the variable TOKEN with you're bot token and PREFIX with you're bot prefix
 
 ## Runtime
 
